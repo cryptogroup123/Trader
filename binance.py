@@ -1,6 +1,4 @@
 from core.exchange import Exchange
-from core.errors import ExchangeError
-
 import json,calendar,datetime,requests
 
 

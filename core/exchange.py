@@ -10,7 +10,7 @@ import time
 import requests
 
 
-class Exchange:
+class Exchange(object):
 	id = None
 
 	def __init__(self,config={}):
